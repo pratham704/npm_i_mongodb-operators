@@ -15,7 +15,8 @@
         "url": "https://github.com/pratham704/npm_i_mongodb-operator/issues"
     },
     "homepage": "https://github.com/pratham704/npm_i_mongodb-operator#readme",
-    "description": "",
+    "description": "A powerful MongoDB manager package that offers advanced CRUD operations, simplified aggregations, and pipeline functionality. It provides utility functions for creating, deleting, and managing MongoDB collections, along with schema definition and database connection. This package simplifies complex MongoDB operations, including aggregations with pipelines, and is compatible with Next.js projects. It makes it easier to work with MongoDB data efficiently in both traditional Node.js and Next.js applications.",
+    "type": "module",
     "dependencies": {
         "mongoose": "^8.4.1"
     }
