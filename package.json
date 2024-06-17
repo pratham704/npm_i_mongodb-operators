@@ -1,22 +1,22 @@
 {
-  "name": "mongodb-operator",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pratham704/npm_i_mongodb-operator.git"
-  },
-  "author": "Pratham Siddannavar",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/pratham704/npm_i_mongodb-operator/issues"
-  },
-  "homepage": "https://github.com/pratham704/npm_i_mongodb-operator#readme",
-  "description": "",
-  "dependencies": {
-    "mongoose": "^8.4.1"
-  }
+    "name": "mongodb-operators",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pratham704/npm_i_mongodb-operator.git"
+    },
+    "author": "Pratham Siddannavar",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/pratham704/npm_i_mongodb-operator/issues"
+    },
+    "homepage": "https://github.com/pratham704/npm_i_mongodb-operator#readme",
+    "description": "",
+    "dependencies": {
+        "mongoose": "^8.4.1"
+    }
 }
