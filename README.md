@@ -1,1 +1,1 @@
-# npm i mongodb-operator
+# npm i mongodb-operators
