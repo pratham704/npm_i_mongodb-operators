@@ -32,11 +32,6 @@ Get started with Installation
 - Aggregation Functions/Methods for Single Collections
 
 - Aggregations Across Collections and Connecting Collections
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 ## Environment Variables
 
 Add your mongoDb uri in .env file or hardcode against it 
