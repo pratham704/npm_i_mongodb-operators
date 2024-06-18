@@ -1,0 +1,10 @@
+{
+    "port": 3000,
+    "database": {
+        "url": "mongodb+srv://username:password@clustername.mongodb.net/mydatabase?retryWrites=true&w=majority"
+    },
+    "logging": {
+        "level": "info",
+        "file": "logs/app.log"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "port": 8080,
+    "database": {
+        "url": "mongodb+srv://username:password@clustername.mongodb.net/prod_database?retryWrites=true&w=majority"
+    },
+    "logging": {
+        "level": "warn",
+        "file": "/var/log/app.log"
+    }
+}

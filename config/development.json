@@ -1,0 +1,8 @@
+{
+    "database": {
+        "url": "mongodb://localhost:27017/dev_database"
+    },
+    "logging": {
+        "level": "debug"
+    }
+}

@@ -40,6 +40,21 @@ Add your mongoDb uri in .env file or hardcode against it
 
 
 
+
+
+## MONGODB_URI format
+```
+mongodb+srv://<username>:<password>@<cluster-address>/<database_Name>?retryWrites=true&w=majority
+```
+Please make sure you add the database_Name in the URI
+
+
+
+
+
+
+
+
 ## MongoDB connections: establishing, terminating, and monitoring status.
 ```javascript
 import { connectToDatabase, disconnectFromDatabase, checkConnectionStatus } from "mongodb-operators";

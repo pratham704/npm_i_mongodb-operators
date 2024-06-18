@@ -12,7 +12,7 @@ const connectToDatabase = async(uri, options = {}) => {
     }
 
     if (isConnected) {
-        return "Already connected to MongoDB Atlas";
+        return "Already Connected to MongoDB ";
     }
 
     try {
@@ -20,7 +20,7 @@ const connectToDatabase = async(uri, options = {}) => {
             ...options,
         });
         isConnected = true;
-        return "Connected to MongoDB Atlas";
+        return "Connected to MongoDB ";
     } catch (error) {
         throw error;
     }
